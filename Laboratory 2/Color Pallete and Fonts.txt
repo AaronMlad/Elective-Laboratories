@@ -1,0 +1,10 @@
+Color Palette
+- #FFFFFF
+- #152637
+- #ff3131
+- #CC0000
+
+Fonts:
+- The Seasons
+- TT Interphases Mono
+- Agrandir
